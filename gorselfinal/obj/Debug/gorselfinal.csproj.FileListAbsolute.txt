@@ -1,0 +1,19 @@
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.csprojResolveAssemblyReference.cache
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.Form1.resources
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.Properties.Resources.resources
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.csproj.GenerateResource.cache
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.csproj.CoreCompileInputs.cache
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\bin\Debug\gorselfinal.exe.config
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\bin\Debug\gorselfinal.exe
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\bin\Debug\gorselfinal.pdb
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.exe
+C:\Users\Osmanoğlu\source\repos\gorselfinal\gorselfinal\obj\Debug\gorselfinal.pdb
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\bin\Debug\gorselfinal.exe.config
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.exe
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.pdb
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\bin\Debug\gorselfinal.exe
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\bin\Debug\gorselfinal.pdb
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.csprojResolveAssemblyReference.cache
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.Form1.resources
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.Properties.Resources.resources
+C:\Users\8\Documents\Visual Studio 2015\Projects\gorselfinal\gorselfinal\obj\Debug\gorselfinal.csproj.GenerateResource.Cache
